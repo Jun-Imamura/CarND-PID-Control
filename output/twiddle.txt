@@ -1,0 +1,245 @@
+
+totalError3239.61best1e+11
+error improved!
+loop 1
+Kp:0.1Ki0.0011Kd10
+totalError2862.68best3239.61
+error improved!
+loop 2
+Kp:0.1Ki0.0011Kd11
+totalError2969.92best2862.68
+loop 3
+Kp:0.1Ki0.0011Kd9
+totalError2895.31best2862.68
+loop 4
+Kp:0.1Ki0.0011Kd10
+totalError2840.4best2862.68
+error improved!
+loop 5
+Kp:0.1Ki0.00121Kd10
+totalError2733.61best2840.4
+error improved!
+loop 6
+Kp:0.1Ki0.00121Kd10.9
+totalError2799.01best2733.61
+loop 7
+Kp:0.1Ki0.00121Kd9.1
+totalError2676.58best2733.61
+error improved!
+loop 8
+Kp:0.1121Ki0.00121Kd9.1
+totalError2322.35best2676.58
+error improved!
+loop 9
+Kp:0.1121Ki0.001331Kd9.1
+totalError2545.62best2322.35
+loop 10
+Kp:0.1121Ki0.001089Kd9.1
+totalError2663.98best2322.35
+loop 11
+Kp:0.1121Ki0.00121Kd9.1
+totalError2604.34best2322.35
+loop 12
+Kp:0.1121Ki0.00121Kd10.09
+totalError2690.59best2322.35
+loop 13
+Kp:0.1121Ki0.00121Kd8.11
+totalError2615.23best2322.35
+loop 14
+Kp:0.1121Ki0.00121Kd9.1
+totalError2662.92best2322.35
+loop 15
+Kp:0.12541Ki0.00121Kd9.1
+totalError2174.93best2322.35
+error improved!
+loop 16
+Kp:0.12541Ki0.0013189Kd9.1
+totalError2128.52best2174.93
+error improved!
+loop 17
+Kp:0.12541Ki0.0013189Kd9.991
+totalError2212.24best2128.52
+loop 18
+Kp:0.12541Ki0.0013189Kd8.209
+totalError2021.35best2128.52
+error improved!
+loop 19
+Kp:0.140051Ki0.0013189Kd8.209
+totalError1886.58best2021.35
+error improved!
+loop 20
+Kp:0.140051Ki0.00143869Kd8.209
+totalError1833.75best1886.58
+error improved!
+loop 21
+Kp:0.140051Ki0.00143869Kd9.1891
+totalError1837.08best1833.75
+loop 22
+Kp:0.140051Ki0.00143869Kd7.2289
+totalError1835.46best1833.75
+loop 23
+Kp:0.140051Ki0.00143869Kd8.209
+totalError1852.62best1833.75
+loop 24
+Kp:0.156156Ki0.00143869Kd8.209
+totalError1676.07best1833.75
+error improved!
+loop 25
+Kp:0.156156Ki0.00157046Kd8.209
+totalError1617.47best1676.07
+error improved!
+loop 26
+Kp:0.156156Ki0.00157046Kd9.09109
+totalError1732.71best1617.47
+loop 27
+Kp:0.156156Ki0.00157046Kd7.32691
+totalError1609.99best1617.47
+error improved!
+loop 28
+Kp:0.173872Ki0.00157046Kd7.32691
+totalError1530.43best1609.99
+error improved!
+loop 29
+Kp:0.173872Ki0.0017154Kd7.32691
+totalError1347.61best1530.43
+error improved!
+loop 30
+Kp:0.173872Ki0.0017154Kd8.29721
+totalError1348.48best1347.61
+loop 31
+Kp:0.173872Ki0.0017154Kd6.35661
+totalError1355.93best1347.61
+loop 32
+Kp:0.173872Ki0.0017154Kd7.32691
+totalError1678.85best1347.61
+loop 33
+Kp:0.193359Ki0.0017154Kd7.32691
+totalError1326.82best1347.61
+error improved!
+loop 34
+Kp:0.193359Ki0.00187485Kd7.32691
+totalError1189.94best1326.82
+error improved!
+loop 35
+Kp:0.193359Ki0.00187485Kd8.20018
+totalError1191.09best1189.94
+loop 36
+Kp:0.193359Ki0.00187485Kd6.45364
+totalError1325.04best1189.94
+loop 37
+Kp:0.193359Ki0.00187485Kd7.32691
+totalError1469.55best1189.94
+loop 38
+Kp:0.214795Ki0.00187485Kd7.32691
+totalError1071.01best1189.94
+error improved!
+loop 39
+Kp:0.214795Ki0.00205023Kd7.32691
+totalError1123.77best1071.01
+loop 40
+Kp:0.214795Ki0.00169946Kd7.32691
+totalError1151.24best1071.01
+loop 41
+Kp:0.214795Ki0.00187485Kd7.32691
+totalError1402.86best1071.01
+loop 42
+Kp:0.214795Ki0.00187485Kd8.11285
+totalError1073.25best1071.01
+loop 43
+Kp:0.214795Ki0.00187485Kd6.54097
+totalError1106.9best1071.01
+loop 44
+Kp:0.214795Ki0.00187485Kd7.32691
+totalError1296.2best1071.01
+loop 45
+Kp:0.238374Ki0.00187485Kd7.32691
+totalError1183.94best1071.01
+loop 46
+Kp:0.191215Ki0.00187485Kd7.32691
+totalError1077.82best1071.01
+loop 47
+Kp:0.214795Ki0.00187485Kd7.32691
+totalError1087.6best1071.01
+loop 48
+Kp:0.214795Ki0.00203269Kd7.32691
+totalError1248.32best1071.01
+loop 49
+Kp:0.214795Ki0.001717Kd7.32691
+totalError1218.27best1071.01
+loop 50
+Kp:0.214795Ki0.00187485Kd7.32691
+totalError1032.04best1071.01
+error improved!
+loop 51
+Kp:0.236016Ki0.00187485Kd7.32691
+totalError1063.44best1032.04
+loop 52
+Kp:0.193573Ki0.00187485Kd7.32691
+totalError1485.09best1032.04
+loop 53
+Kp:0.214795Ki0.00187485Kd7.32691
+totalError984.083best1032.04
+error improved!
+loop 54
+Kp:0.214795Ki0.00187485Kd8.10499
+totalError1529.7best984.083
+loop 55
+Kp:0.214795Ki0.00187485Kd6.54883
+totalError1097.2best984.083
+loop 56
+Kp:0.214795Ki0.00187485Kd7.32691
+totalError1100best984.083
+loop 57
+Kp:0.233894Ki0.00187485Kd7.32691
+totalError1107.01best984.083
+loop 58
+Kp:0.195695Ki0.00187485Kd7.32691
+totalError1490.78best984.083
+loop 59
+Kp:0.214795Ki0.00187485Kd7.32691
+totalError1002.81best984.083
+loop 60
+Kp:0.214795Ki0.00203111Kd7.32691
+totalError1276.16best984.083
+loop 61
+Kp:0.214795Ki0.00171858Kd7.32691
+totalError1104.67best984.083
+loop 62
+Kp:0.214795Ki0.00187485Kd7.32691
+totalError1378.71best984.083
+loop 63
+Kp:0.214795Ki0.00187485Kd8.02718
+totalError981.185best984.083
+error improved!
+loop 64
+Kp:0.231984Ki0.00187485Kd8.02718
+totalError1315.08best981.185
+loop 65
+Kp:0.197605Ki0.00187485Kd8.02718
+totalError1243.65best981.185
+loop 66
+Kp:0.214795Ki0.00187485Kd8.02718
+totalError1390.76best981.185
+loop 67
+Kp:0.214795Ki0.00201549Kd8.02718
+totalError1096.08best981.185
+loop 68
+Kp:0.214795Ki0.0017342Kd8.02718
+totalError1329.43best981.185
+loop 69
+Kp:0.214795Ki0.00187485Kd8.02718
+totalError1462.09best981.185
+loop 70
+Kp:0.214795Ki0.00187485Kd8.79749
+totalError1047.77best981.185
+loop 71
+Kp:0.214795Ki0.00187485Kd7.25688
+totalError1369.86best981.185
+loop 72
+Kp:0.214795Ki0.00187485Kd8.02718
+totalError1047.36best981.185
+loop 73
+Kp:0.230265Ki0.00187485Kd8.02718
+totalError1305.01best981.185
+loop 74
+Kp:0.199324Ki0.00187485Kd8.02718      <- course out!
