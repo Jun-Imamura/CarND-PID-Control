@@ -15,8 +15,7 @@ Firstly, I tried only P-controller implementation. This results in fractuated re
 |:--|--------|--------|--------|
 |val|   0.135|     0.0|     0.0|
 
-<video src="output/P_Controller.mp4" width="320" height="200" controls preload></video>
-
+[result video](./output/P_Controller.mp4)
 
 ###### PD Controller
 Next, I tried PD-controller implemetation. This result in much stable result, but CTE had some drift.
@@ -25,7 +24,8 @@ Next, I tried PD-controller implemetation. This result in much stable result, bu
 |:--|--------|--------|--------|
 |val|   0.135|     0.0|     3.0|
 
-<video src="output/PD_Controller.mp4" width="320" height="200" controls preload></video>
+[result video](./output/PD_Controller.mp4)
+
 ###### PID Controller
 Finally, I tried PID-controller implemetation. In this parameter set, I could reduce the CTE drift.
 
@@ -33,7 +33,7 @@ Finally, I tried PID-controller implemetation. In this parameter set, I could re
 |:--|--------|--------|--------|
 |val|   0.135|  0.0002|     3.0|
 
-<video src="output/PID_Controller.mp4" width="320" height="200" controls preload></video>
+[result video](./output/PID_Controller.mp4)
 
 #### How the Final HyperParameters Chosen?
 ###### Twiddle
@@ -83,4 +83,6 @@ Below is the final parameter set.
 
 This time, I set only total sum of CTE as the error function parameter. This makes the output video's steering strong.
 
-<video src="output/After_Twiddle.mp4" width="320" height="200" controls preload></video>
+[result video](./output/After_Twiddle.mp4)
+
+You can also see how the parameter changed during twiddling [here](./output/twiddle.txt).
